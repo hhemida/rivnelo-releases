@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-04T18:00:00Z",
+  "ios": { "build": 1, "version": "1.0.0", "storeURL": null },
+  "android": { "build": 1, "version": "1.0.0", "storeURL": null },
+  "notes": { "en": "Initial native preview. Store publication is pending.", "ar": "النسخة الأصلية التجريبية الأولى. النشر في المتاجر قيد الإعداد." }
+}
